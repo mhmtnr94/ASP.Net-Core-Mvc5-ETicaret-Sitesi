@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MehmeTicaret2.props" />
+</Project>
